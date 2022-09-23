@@ -1,0 +1,7 @@
+{
+  "name": "monprt-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
